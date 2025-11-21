@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+ultralytics
+pillow
+requests
+psycopg2-binary
